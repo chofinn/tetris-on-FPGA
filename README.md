@@ -23,4 +23,4 @@
 - 方塊落下速度隨等級增加
 - Game Over 時顯示 GG
 ## 測試影片
-> 待補!!
+[google drive](https://drive.google.com/file/d/1pzUEbWlylI8wVlXfIEKdMUAk4tw-owI5/view?usp=sharing)
